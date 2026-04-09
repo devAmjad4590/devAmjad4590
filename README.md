@@ -12,14 +12,14 @@ I'm a Full-Stack Software Engineer based in Mecca, Saudi Arabia, with a passion 
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
 # 📊 GitHub Stats:
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=devAmjad4590&theme=dark&hide_border=false)<br/>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devAmjad4590&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+!https://github-readme-streak-stats.herokuapp.com/?user=devAmjad4590&theme=dark&hide_border=false<br/>
+!https://github-readme-stats.vercel.app/api/top-langs/?username=devAmjad4590&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact
 
 ## 🏆 GitHub Trophies
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=devAmjad4590&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+!https://github-profile-trophy.vercel.app/?username=devAmjad4590&theme=radical&no-frame=false&no-bg=true&margin-w=4
 
 ### 🔝 Top Contributed Repo
-![Top Contributed Repo](https://github-contributor-stats.vercel.app/api?username=devAmjad4590&limit=5&theme=dark&combine_all_yearly_contributions=true)
+!https://github-contributor-stats.vercel.app/api?username=devAmjad4590&limit=5&theme=dark&combine_all_yearly_contributions=true
 
 ---
 
